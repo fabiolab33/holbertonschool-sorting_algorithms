@@ -48,7 +48,7 @@ if (i != high)
 swap_ints(&array[i], &array[high]);
 print_array(array, size);
 }
-return i;
+return (i);
 }
 
 /**
